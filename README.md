@@ -511,6 +511,22 @@ Looking down along the **Z-axis** makes it much easier to locate the level becau
 >
 > Do not move the imported objects to the origin unless necessary. Their coordinates correspond to the original Prey level coordinate system and are important when combining multiple parts of a level or importing additional data later.
 
+## Example Imported Levels
+
+Below are a few examples of Prey levels reconstructed and imported into Blender using this workflow.
+
+### Talos I Exterior
+
+![Blender viewport](images/Talos1_Exterior.png)
+
+### Talos I Lobby
+
+![Blender viewport](images/Lobby_Exterior.png)
+
+### Talos I Power Plant
+
+![Blender viewport](images/PowerSource_Exterior.png)
+
 # 12. Recommended workflow
 
 For a first test, do **not** immediately process the entire game.
