@@ -521,11 +521,11 @@ Below are a few examples of Prey levels reconstructed and imported into Blender 
 
 ### Talos I Lobby
 
-![Blender viewport](images/Lobby_Exterior.png)
+![Blender viewport](images/Lobby.png)
 
 ### Talos I Power Plant
 
-![Blender viewport](images/PowerSource_Exterior.png)
+![Blender viewport](images/PowerSource.png)
 
 # 12. Recommended workflow
 
