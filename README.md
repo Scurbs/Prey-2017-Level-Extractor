@@ -791,3 +791,17 @@ This project is intended for research, modding, preservation, and personal use w
 Prey and its original game assets are property of their respective rights holders.
 
 No original Prey game assets should be redistributed with this repository.
+
+## Legal Notice
+
+This project does **not** contain or distribute any original Prey game assets.
+
+The provided tools and scripts are intended to process files from a user's own legally obtained copy of *Prey (2017)*.
+
+All Prey game assets, including models, textures, level geometry, materials, audio, and other game content, remain the property of their respective copyright holders.
+
+Converted versions of original game assets, including `.usda`, `.obj`, `.fbx`, or Blender files containing extracted Prey geometry, are not distributed with this project.
+
+Users are responsible for ensuring that their use of extracted game data complies with the applicable license agreements and local laws.
+
+*Prey* and related trademarks and assets are property of their respective owners. This project is not affiliated with or endorsed by Bethesda Softworks, ZeniMax Media, Arkane Studios, or Microsoft.
